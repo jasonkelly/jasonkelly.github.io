@@ -1,5 +1,5 @@
 name: Jason Kelly
-markdown: redcarpet
+markdown: kramdown
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 baseurl: "documents/jasonkelly.github.io"
 url: "http://jasonkelly.github.io"
