@@ -1,5 +1,3 @@
-name: Jason Kelly
+name: Gearoid O'Connor
 markdown: redcarpet
 exclude: ["node_modules", "gulpfile.js", "package.json"]
-baseurl: "documents/jasonkelly.github.io"
-url: "http://jasonkelly.github.io"
