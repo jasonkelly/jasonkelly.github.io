@@ -661,7 +661,7 @@ header {
         header nav a {
           display: inline-block; } }
       header nav a:hover {
-        color: black; }
+        color: gray; }
   header h1 {
     text-align: center;
     color: rgba(255,255,255, 0.8);
@@ -718,11 +718,11 @@ footer {
       font-size: 12px;
       color: rgba(0, 0, 0, 0.4); }
     footer .lockup a {
-      color: rgba(0, 0, 0, 0.6);
+      color: rgba(255, 255, 255, 1);
       display: inline-block;
       margin-right: 30px; }
       footer .lockup a:hover {
-        color: black; }
+        color: gray; }
 
 @media only screen and (min-width: 220px) {
   .about-lock {
