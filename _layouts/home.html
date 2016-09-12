@@ -5,9 +5,7 @@ layout: default
 {% include header.html %}
 
 {% include about.html %}
-
-{% include history.html %}
-
+<section class="blog-sec">
 <h2 id="Blog"> Blog </h2>
 <hr class="bar-blog"> </hr>
 {% for post in site.categories['blog'] limit:3%}
@@ -23,9 +21,12 @@ layout: default
 <hr class="bar-blog"> </hr>
 
 <h2 id="Blog"><a href="/posts"> More >> </a></h2>
+</section>
 
 
 
 {% include contact.html %}
+
+{% include history.html %}
 
 {% include message.html %}

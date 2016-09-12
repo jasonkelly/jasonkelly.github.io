@@ -718,7 +718,7 @@ footer {
       font-size: 12px;
       color: rgba(255, 255, 255, 1); }
     footer .lockup a {
-      color: rgba(0, 0, 0, 0.6);
+      color: rgba(255, 255, 255, 1);
       display: inline-block;
       margin-right: 30px; }
       footer .lockup a:hover {
@@ -877,8 +877,12 @@ footer {
   text-align: center; }
 
 .section-contact {
-  background: #e5eaee;
+  background: #ffffff;
   text-align: center; }
+
+.blog-sec {
+  background: #e5eaee;
+}
 
 .social-links {
   max-width: 700px;
