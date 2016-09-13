@@ -1389,9 +1389,9 @@ form {
     #h_small #nav_small a {
       display: inline-block;
       margin-left: 10px;
-      color: rgba(0, 0, 0, 0.5); }
+      color: rgba(255, 255, 255, 1); }
       #h_small #nav_small a:hover {
-        color: black; }
+        color: gray; }
   #h_small #h1_small {
     display: inline-block;
     font-size: 72px;
